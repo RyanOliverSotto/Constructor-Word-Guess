@@ -1,0 +1,24 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "Northwestern Coding Bootcamp Spring 2018 Homework Assignment Week11: Constructor-Word-Guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanOliverSotto/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanOliverSotto/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/RyanOliverSotto/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "random-words": "^1.1.0"
+  }
+}
